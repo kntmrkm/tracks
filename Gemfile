@@ -21,6 +21,7 @@ gem 'jquery-rails'
 # always possible on all hosters
 gem "sqlite3"
 gem "mysql2"
+gem "pg"
 
 gem "RedCloth"
 gem "sanitize"
